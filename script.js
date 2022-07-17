@@ -7,10 +7,10 @@ console.log('importing modules');
 // import * as ShoppingCart from './shoppingCart.js';
 // ShoppingCart.addToCart('Bread', 5);
 // console.log(ShoppingCart.totalPrice);
-// import add, { cart } from './shoppingCart.js';
-// add('pizza', 5);
-// add('Bread', 5);
-// add('apple', 5);
+import add, { cart } from './shoppingCart.js';
+add('pizza', 5);
+add('Bread', 5);
+add('apple', 5);
 
 // console.log(cart);
 
@@ -76,4 +76,21 @@ console.log(stateDeepClone);
 if (module.hot) {
   module.hot.accept();
 }
+
+class Person {
+  #greeting = 'Hey';
+  constructor(name) {
+    this.name = name;
+    console.log(`${this.#greeting},${this.name}`);
+  }
+}
+const jonas = new Person('Jonas');
+console.log('Jonas' ?? null);
+
+console.log(cart.find(el => el.quantity >= 2));
+Promise.resolve('TEST').then(x => console.log(x));
+
+import 'core-js/stable';
+// polyfill async func
+import 'regenerator-runtime/runtime'
 
