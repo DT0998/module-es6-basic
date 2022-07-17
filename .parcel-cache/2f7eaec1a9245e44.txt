@@ -1,4 +1,4 @@
-4929
+4927
 76D:\IDM download\module-es6-basic\node_modules\lmdb\dependencies\lmdb-data-v1133024626516596279 1
 52D:\IDM download\module-es6-basic\node_modules\base-x133024626516975281 1
 45D:\IDM download\module-es6-basic\package.json133025233422695096 0
@@ -19,7 +19,7 @@
 74D:\IDM download\module-es6-basic\node_modules\yaml\browser\types\binary.js133024626513781528 0
 63D:\IDM download\module-es6-basic\node_modules\lodash-es\next.js133024566102211730 0
 72D:\IDM download\module-es6-basic\node_modules\@parcel\runtime-js\LICENSE133024626550877161 0
-43D:\IDM download\module-es6-basic\.gitignore133022832659243473 0
+43D:\IDM download\module-es6-basic\.gitignore133025238427110175 0
 66D:\IDM download\module-es6-basic\node_modules\msgpackr-extract\src133024626513701749 1
 80D:\IDM download\module-es6-basic\node_modules\@parcel\logger\test\Logger.test.js133024626556934823 0
 63D:\IDM download\module-es6-basic\node_modules\svgo\lib\style.js133024626555169831 0
@@ -28,14 +28,14 @@
 63D:\IDM download\module-es6-basic\node_modules\lodash-es\size.js133024566103305765 0
 74D:\IDM download\module-es6-basic\node_modules\lodash-es\_getWrapDetails.js133024566094619229 0
 77D:\IDM download\module-es6-basic\node_modules\caniuse-lite\data\regions\AX.js133024626539943906 0
-37D:\IDM download\module-es6-basic\dist133025235762406499 1
+37D:\IDM download\module-es6-basic\dist133025246000372956 1
 44D:\IDM download\module-es6-basic\.prettierrc133022832659243473 0
 53D:\IDM download\module-es6-basic\node_modules\leaflet133024566095407115 1
 82D:\IDM download\module-es6-basic\node_modules\@parcel\core\test\fixtures\bundle.js133024626565833994 0
 93D:\IDM download\module-es6-basic\node_modules\leaflet\src\geo\projection\Projection.LonLat.js133024566093990895 0
 76D:\IDM download\module-es6-basic\node_modules\type-fest\ts41\camel-case.d.ts133024626521806383 0
 67D:\IDM download\module-es6-basic\node_modules\lodash-es\_hasPath.js133024566094768832 0
-43D:\IDM download\module-es6-basic\index.html133025224577329869 0
+43D:\IDM download\module-es6-basic\index.html133025245804705764 0
 91D:\IDM download\module-es6-basic\node_modules\csso\lib\restructure\2-initialMergeRuleset.js133024626516556409 0
 75D:\IDM download\module-es6-basic\node_modules\update-browserslist-db\cli.js133024626513424074 0
 92D:\IDM download\module-es6-basic\node_modules\css-tree\lib\syntax\pseudo\nth-last-of-type.js133024626561486959 0
@@ -47,7 +47,7 @@
 66D:\IDM download\module-es6-basic\node_modules\lodash-es\_Symbol.js133024566096380422 0
 98D:\IDM download\module-es6-basic\node_modules\css-tree\lib\syntax\pseudo\common\nthWithOfClause.js133024626561900335 0
 128D:\IDM download\module-es6-basic\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main-directory\nested133024626538524317 1
-42D:\IDM download\module-es6-basic\script.js133025235525639300 0
+42D:\IDM download\module-es6-basic\script.js133025240461902379 0
 54D:\IDM download\module-es6-basic\node_modules\css-tree133024626569241329 1
 75D:\IDM download\module-es6-basic\node_modules\electron-to-chromium\index.js133024626521083087 0
 73D:\IDM download\module-es6-basic\node_modules\svgo\plugins\removeAttrs.js133024626536974471 0
@@ -2499,7 +2499,6 @@
 84D:\IDM download\module-es6-basic\node_modules\@parcel\core\src\public\BundleGraph.js133024626568122064 0
 70D:\IDM download\module-es6-basic\node_modules\lodash-es\_setToPairs.js133024566096095330 0
 71D:\IDM download\module-es6-basic\node_modules\lodash-es\_setToString.js133024566096105246 0
-55D:\IDM download\module-es6-basic\dist\index.8cfc62b9.js133024636270581441 0
 65D:\IDM download\module-es6-basic\node_modules\lodash-es\_Stack.js133024566096195025 0
 77D:\IDM download\module-es6-basic\node_modules\htmlparser2\lib\Parser.d.ts.map133024626523637771 0
 70D:\IDM download\module-es6-basic\node_modules\lodash-es\_stackClear.js133024566096204993 0
@@ -2992,7 +2991,6 @@
 86D:\IDM download\module-es6-basic\node_modules\css-tree\lib\syntax\pseudo\common\nth.js133024626561820574 0
 70D:\IDM download\module-es6-basic\node_modules\dom-serializer\README.md133024626524445867 0
 78D:\IDM download\module-es6-basic\node_modules\@parcel\resolver-default\LICENSE133024626543018367 0
-59D:\IDM download\module-es6-basic\dist\index.8cfc62b9.js.map133024636270621304 0
 84D:\IDM download\module-es6-basic\node_modules\@swc\helpers\lib\_non_iterable_rest.js133024626544083535 0
 82D:\IDM download\module-es6-basic\node_modules\dom-serializer\node_modules\entities133024626525398654 1
 77D:\IDM download\module-es6-basic\node_modules\@parcel\core\lib\Environment.js133024626570524097 0
@@ -3975,7 +3973,7 @@
 64D:\IDM download\module-es6-basic\node_modules\acorn\CHANGELOG.md133024626522734198 0
 56D:\IDM download\module-es6-basic\node_modules\acorn\dist133024626526007037 1
 59D:\IDM download\module-es6-basic\node_modules\acorn\LICENSE133024626513582779 0
-55D:\IDM download\module-es6-basic\dist\index.73b15785.js133025235762326681 0
+55D:\IDM download\module-es6-basic\dist\index.73b15785.js133025245454325870 0
 64D:\IDM download\module-es6-basic\node_modules\acorn\package.json133024626521527137 0
 94D:\IDM download\module-es6-basic\node_modules\@parcel\core\src\requests\WriteBundlesRequest.js133024626576085773 0
 61D:\IDM download\module-es6-basic\node_modules\acorn\README.md133024626523587893 0
@@ -4924,7 +4922,7 @@
 59D:\IDM download\module-es6-basic\node_modules\.bin\svgo.ps1133024626600842911 0
 61D:\IDM download\module-es6-basic\node_modules\.bin\terser.cmd133024626600842911 0
 61D:\IDM download\module-es6-basic\node_modules\.bin\terser.ps1133024626600842911 0
-59D:\IDM download\module-es6-basic\dist\index.73b15785.js.map133025235762386537 0
-48D:\IDM download\module-es6-basic\dist\index.html133025235761285199 0
-66D:\IDM download\module-es6-basic\dist\module-es6-basic.3464ddca.js133024635458242648 0
-70D:\IDM download\module-es6-basic\dist\module-es6-basic.3464ddca.js.map133024635458272572 0
+55D:\IDM download\module-es6-basic\dist\index.578b52d3.js133025246000213383 0
+59D:\IDM download\module-es6-basic\dist\index.578b52d3.js.map133025246000363708 0
+59D:\IDM download\module-es6-basic\dist\index.73b15785.js.map133025245454375822 0
+48D:\IDM download\module-es6-basic\dist\index.html133025245999967175 0

@@ -7,12 +7,12 @@ console.log('importing modules');
 // import * as ShoppingCart from './shoppingCart.js';
 // ShoppingCart.addToCart('Bread', 5);
 // console.log(ShoppingCart.totalPrice);
-import add, { cart } from './shoppingCart.js';
-add('pizza', 5);
-add('Bread', 5);
-add('apple', 5);
+// import add, { cart } from './shoppingCart.js';
+// add('pizza', 5);
+// add('Bread', 5);
+// add('apple', 5);
 
-console.log(cart);
+// console.log(cart);
 
 // const getLastPost = async function () {
 //   const res = await fetch('https://jsonplaceholder.typicode.com/posts');
@@ -76,3 +76,4 @@ console.log(stateDeepClone);
 if (module.hot) {
   module.hot.accept();
 }
+
